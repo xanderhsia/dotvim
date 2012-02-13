@@ -1,0 +1,80 @@
+[submodule "vim-pathogen"]
+	path = vim-pathogen
+	url = http://github.com/tpope/vim-pathogen.git
+	ignore=dirty
+[submodule "bundle/solarized"]
+	path = bundle/solarized
+	url = http://github.com/altercation/vim-colors-solarized.git
+	ignore=dirty
+[submodule "bundle/surround"]
+	path = bundle/surround
+	url = http://github.com/tpope/vim-surround.git
+	ignore=dirty
+[submodule "bundle/repeat"]
+	path = bundle/repeat
+	url = http://github.com/tpope/vim-repeat.git
+	ignore=dirty
+[submodule "bundle/lusty"]
+	path = bundle/lusty
+	url = http://github.com/sjbach/lusty
+	ignore=dirty
+[submodule "bundle/command-t"]
+	path = bundle/command-t
+	url = git://git.wincent.com/command-t.git
+	ignore=dirty
+[submodule "bundle/snipmate"]
+	path = bundle/snipmate
+	url = git://github.com/msanders/snipmate.vim.git
+	ignore=dirty
+[submodule "bundle/nerdcommenter"]
+	path = bundle/nerdcommenter
+	url = http://github.com/scrooloose/nerdcommenter.git
+	ignore=dirty
+[submodule "bundle/headlights"]
+	path = bundle/headlights
+	url = http://github.com/mbadran/headlights.git
+	ignore=dirty
+[submodule "bundle/supertab"]
+	path = bundle/supertab
+	url = http://github.com/ervandew/supertab.git
+	ignore=dirty
+[submodule "bundle/tagbar"]
+	path = bundle/tagbar
+	url = http://github.com/majutsushi/tagbar
+	ignore=dirty
+[submodule "bundle/yankring"]
+	path = bundle/yankring
+	url = http://github.com/vim-scripts/YankRing.vim.git
+	ignore=dirty
+[submodule "bundle/rainbowparenthesis"]
+	path = bundle/rainbowparenthesis
+	url = http://github.com/vim-scripts/Rainbow-Parenthesis.git
+	ignore=dirty
+[submodule "bundle/showmarks"]
+	path = bundle/showmarks
+	url = http://github.com/garbas/vim-showmarks.git
+	ignore=dirty
+[submodule "bundle/delimitmate"]
+	path = bundle/delimitmate
+	url = http://github.com/Raimondi/delimitMate.git
+	ignore=dirty
+[submodule "bundle/tabular"]
+	path = bundle/tabular
+	url = http://github.com/godlygeek/tabular.git
+	ignore=dirty
+[submodule "bundle/fugitive"]
+	path = bundle/fugitive
+	url = http://github.com/tpope/vim-fugitive.git
+	ignore=dirty
+[submodule "bundle/pyflakes"]
+	path = bundle/pyflakes
+	url = https://github.com/kevinw/pyflakes-vim.git
+	ignore=dirty
+[submodule "bundle/jpythonfold"]
+	path = bundle/jpythonfold
+	url = http://github.com/mbadran/jpythonfold.vim.git
+	ignore=dirty
+[submodule "bundle/ipython"]
+	path = bundle/ipython
+	url = https://github.com/ivanov/vim-ipython.git
+	ignore=dirty
